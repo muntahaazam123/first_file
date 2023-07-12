@@ -1,0 +1,375 @@
+.outer-div{
+    width:100%;
+    height: 120px;
+    background-color: rgb(30, 17, 78);
+    float: left;
+    
+}
+/* .outer-div:hover{
+    background-color: rgb(9, 102, 207);
+} */
+.inner-div1{
+    width:30%;
+    height:120px;
+    float: left;
+  
+
+}
+.content{
+    height:90px ;
+    width:220px ;
+    margin: 20px;
+    margin-left: 100px;
+}
+.inner-div2{
+    width:70%;
+    height:120px;
+    float: left;
+   
+}
+li{
+    float: left;
+    list-style-type: none;
+}
+li{
+   
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    margin-top: 35px;
+    display: block;
+}
+li:hover{
+    color: green;
+}
+li img{
+    height: 25px;
+    width: 30px;
+    margin-bottom: 60px;
+}
+.bgi{
+    height: 400px;
+    width: 100%;
+    float: left;
+    background-image:url("it.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.bgi2{
+    height: 500px;
+    width: 100%;
+}
+.text{
+    height: 350px;
+    width: 100%;
+    float: left;background-color: white;
+}
+.h11{
+    text-align: center;
+    color: rgba(3, 3, 63, 0.863);
+    font-family: arial black;
+    font-size: 40px;
+    margin-top: 80px;
+}
+pre{
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 18px;
+}
+.blue-outer{
+    height: 300px;
+    width: 100%;
+    float: left;
+    background-image: url("https://www.shutterstock.com/image-vector/abstract-cyber-plexus-shapes-digital-260nw-1165554427.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 60px;
+    background-position: center;
+   
+}
+/* .blue-content{
+   
+    height: 400px;
+    width: 100%;
+   
+} */
+.blue-inner{
+    height: 300px;
+    width: 50%;
+    float: left;
+   
+}
+ h1{
+   text-align: center;
+   color: white;
+    font-family: arial black;
+    margin-top: 60px;
+}
+p{
+    text-align: center;
+    font-family: arial;
+    font-size: 17px;
+   color: white;
+   line-height:1.5 ;
+}
+.blue-inner2{
+    height: 300px;
+    width: 50%;
+    float: left;
+   
+
+}
+.main-div{
+    height: 530px;
+    width: 100%;
+    background-color: rgb(253, 253, 253);
+    float: left;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.small1{
+    height: 530px;
+    width: 30%;
+    float: left;
+    background-color: rgb(116, 211, 103);
+    margin-bottom: 10px;
+    margin-right: 15px;
+    border-bottom: 7px solid blue;
+    border-radius: 5px; 
+}
+.small2{
+    height: 530px;
+    width: 30%;
+    float: left;
+    background-color: rgb(116, 211, 103);
+margin-bottom: 10px;
+margin-right: 15px;
+border-radius: 5px;
+border-bottom: 7px solid blue;
+}
+.small3{
+    height: 530px;
+    width: 30%;
+    float: left;
+    background-color: rgb(116, 211, 103);
+    margin-bottom: 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border-bottom: 7px solid blue;
+}
+/* .smallest1{
+    height: 50%;
+    width: 100%;
+    float: left;
+    background-color: blueviolet;
+}
+.smallest2{
+    height: 50%;
+    width: 100%;
+    float: left;
+    background-color: blueviolet;
+}
+.smallest3{
+    height: 50%;
+    width: 100%;
+    float: left;
+    background-color: blueviolet;
+} */
+.lock{
+    height:100px ;
+    width:100px ;
+    margin: 100px;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 180px;
+}
+.small1:hover{
+    background-color: rgb(12, 114, 182);
+}
+.small2:hover{
+    background-color: rgb(12, 114, 182);
+}
+.small3:hover{
+    background-color: rgb(12, 114, 182);
+}
+
+h2{
+    text-align: center;
+    font-family: arial black;
+    font-size: 25px;
+    background: rgb(201, 197, 197);
+    margin-left:45px ;
+    margin-right:45px ;
+    color: rgb(61, 59, 59);
+    margin-top: -70px;
+    
+   
+}
+h3{
+    
+    color: white;
+    font-size: 14px;
+    line-height:1.5 ;
+    text-align: justify;
+    margin-left: 40px;
+
+}
+.collaboration{
+    height:100px ;
+    width:100px ;
+    margin: 100px;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 180px;
+}
+.commitment{
+    height:100px ;
+    width:100px ;
+    margin: 100px;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 180px;
+}
+.large{
+    height: 430px;
+    width: 100%;
+    float: left;
+    background-color: blueviolet;
+    margin-top: 30px;
+}
+.large1{
+height:430px;
+width: 50%;
+float: left;
+background-color: rgb(249, 249, 253);
+}
+.large2{
+    height:430px;
+width: 50%;
+float: left;
+background-color: rgb(253, 250, 250);
+
+}
+.clock{
+    height:430px;
+width: 100%;
+margin-left: 60px;
+
+}
+h4{
+    text-align:left;
+    color: black;
+    font-family: arial black;
+    font-size: 26px;
+    margin-left: 20px;
+}
+h5{
+    font-size: 16px;
+    margin-left: 20px;
+    line-height: 1.7;
+    font-family: Calibri;
+    
+}
+.bold{
+    height: 70px;
+    width: 100%;
+    float: left;
+    background-color: rgb(249, 252, 252);
+}
+.bold2{
+    margin-left: 80px;
+    margin-right: 100px;
+    color: rgb(46, 46, 46);
+    font-family: arial black;
+    font-size: 18px;
+    text-align: center;
+}
+.bluish{
+    height: 350px;
+    width: 100%;
+    float: left;
+    background-color: rgb(7, 7, 34);
+}
+.bluish1{
+    width: 35%;
+    height: 100%;
+    float: left;
+   
+    
+
+}
+.bluish2{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+    
+
+}
+.bluish3{
+    width: 15%;
+    height: 100%;
+    float: left;
+    
+
+}
+.bluish4{
+    width: 35%;
+    height: 100%;
+    float: left;
+
+    
+
+}
+.web1{
+    height: 130px;
+    width: 320px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    
+}
+.com{
+
+color: white;
+font-size: 20px;
+font-family: arial black;
+margin-top: 100px;
+text-align: left;
+margin-left: 50px;
+
+}
+.comm{
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 70px;
+}
+li.sss{
+    float: left;
+
+}
+ul.ss{
+    list-style-type:none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown,.dropdown-content:hover{
+    display: block;
+    
+  }

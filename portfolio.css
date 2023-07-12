@@ -1,0 +1,199 @@
+
+
+.p{
+    height:400px;
+    width:100%;
+    float:left;
+    background-color: rgb(222, 222, 228)
+}
+        
+    
+.text{
+    height:30%;
+    width:100%
+  
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    font-size: 42px;
+    font-family: arial;
+    margin: 10px ;
+}
+    
+p{
+    font-size: 30px;
+    margin: 5px;
+    
+}
+    
+.photo{
+    height:60%;
+    width:50% ;
+    float:right;
+   background-color:rgb(222, 222, 228);
+}
+.prop{
+    height:200px ;
+    width:450px ;
+}
+.idea{
+    font-size: 16px;
+    font-family: arial;
+}
+.background{
+    height: 1125px;
+    width: 100%;
+    background-color: gray;
+    float:left;
+}
+.frame{
+    height:400px;
+    width:30%;
+    float:left;
+    
+    
+}
+
+.pic2{
+    height: 400px;
+    width: 70%;
+    float: left;
+}
+    
+
+    .design{
+        height:350px;
+        width: 800px;
+        float: right;
+        margin-right: 30px;
+        margin-top: 20px;
+        margin-bottom: 120px;
+    }
+    .stool{
+        height:450px;
+        width: 30%;
+        background-color:brown;
+        float:left;
+        margin-left:30px ;
+    }
+    .size1{
+        height: 450px;
+        width:100%;
+    }
+    .stool2{
+        height:450px;
+        width: 30%;
+        background-color:rgb(161, 20, 142);
+        float:left;
+        margin-left:30px ;
+
+ }
+ .size2{
+    height:450px;
+    width: 100%;
+ }
+ .stool3{
+    height:450px;
+    width: 30%;
+    background-color:rgb(199, 196, 12);
+    float:left;
+    margin-left:30px ;
+ }
+ .size3{
+    height:450px;
+    width: 100%
+ }
+    .price1{
+height: 80px;
+width: 30%;
+background-color: rgb(251, 255, 255);
+float:left;
+margin-left:30px ;
+    }
+.price2{
+    height: 80px;
+width: 30%;
+background-color: rgb(250, 246, 247);
+float:left;
+margin-left:30px ;
+}
+
+.price3{
+    height: 80px;
+width: 30%;
+background-color: rgb(253, 252, 255);
+float:left;
+margin-left:30px ;
+
+}
+.dollar1{
+    height: 30px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+  background-color: white;
+margin-bottom: 30px;
+}
+
+.dollar2{
+    height: 30px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+  background-color: white;
+margin-bottom: 30px;
+}
+
+.dollar3{
+    height: 30px;
+    width: 30%;
+    float: left;
+    margin-left: 30px;
+  background-color: white;
+  margin-bottom:30px;
+}
+.address{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    float: left;
+}
+.add1{
+    height: 100px;
+    width: 30%;
+   
+    float: left;
+margin-left: 30px;
+}
+.phone{
+    height:100px;
+    width: 30%;
+   
+    float: left;
+margin-left: 30px;
+}
+.number{
+    height:100px;
+    width: 30%;
+    
+    float: left;
+    margin-left: 30px;
+}
+ .info{ 
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial black;
+    color: black;
+ }
+    
+
+
+
+
+
+
+
+    
